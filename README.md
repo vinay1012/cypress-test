@@ -1,7 +1,5 @@
 # cypress-test
 
-|-------------|---------|
-
 ## RAPP-Studio  0.0.23 
 
 ## Service Images
